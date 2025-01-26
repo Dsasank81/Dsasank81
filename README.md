@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋! I’m Sasank | AI/ML Enthusiast 🚀 | Full-Stack Developer 💻 | Data Science Explorer 🌟 | Innovator & Learner 🎯</h1>
+<h1 align="center">Hi 👋, I'm! Sasank | AI/ML Enthusiast 🚀 | Full-Stack Developer 💻 | Data Science Explorer 🌟 | Innovator & Learner 🎯</h1>
 <h3 align="center">Turning ideas into impactful solutions through AI, ML, and Full-Stack Development. Passionate about innovation, problem-solving, and continuous growth!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsasank81&label=Profile%20views&color=0e75b6&style=flat" alt="dsasank81" /> </p>
